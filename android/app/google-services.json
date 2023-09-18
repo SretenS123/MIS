@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954362826283",
+    "project_id": "wofa-domasna-mis",
+    "storage_bucket": "wofa-domasna-mis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954362826283:android:ca722cfa8d4c1b77ade46e",
+        "android_client_info": {
+          "package_name": "com.example.domasna_mis_193008"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954362826283-8ug58a0upmhq4la38rj0d12m3ma317np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_LfKy7Yf6xo9dVz6bFtMBlOn65wpOck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954362826283-8ug58a0upmhq4la38rj0d12m3ma317np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
